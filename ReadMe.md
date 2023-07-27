@@ -1,6 +1,6 @@
 ### TSConfig
 
-> 🔭 <p>My personal set of tsconfig.json files</p>
+>🎃<p>My personal set of tsconfig.json files</p>
 
 #### Activity
 

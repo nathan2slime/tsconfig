@@ -1,9 +1,15 @@
 {
   "name": "@nathan3boss/tsconfig",
-  "version": "0.0.1",
+  "description": "My personal set of tsconfig.json files",
+  "version": "0.0.2",
   "files": [
     "skryp/*"
   ],
+  "keywords": [
+    "tsconfig",
+    "nathan3boss"
+  ],
+  "license": "MIT",
   "scripts": {
     "commit": "git-cz",
     "format": "prettier --write ."
@@ -17,7 +23,7 @@
     "prettier": "latest"
   },
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=14.0.0"
   },
   "config": {
     "commitizen": {

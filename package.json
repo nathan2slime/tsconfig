@@ -1,7 +1,7 @@
 {
   "name": "@nathan3boss/tsconfig",
   "description": "My personal set of tsconfig.json files",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "files": [
     "skryp/*"
   ],
